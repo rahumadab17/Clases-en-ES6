@@ -20,3 +20,5 @@ export default class Impuesto {
         this._deducciones = nuevo_deducciones;
     }
 }
+
+// esto es una prueba para testear los merge entre branches
